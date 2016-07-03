@@ -1,0 +1,5 @@
+C:\Users\Yakov\Desktop\EPAM.Training\MultiFileAssembly\StudentLibrary\bin\Debug\StudentLibrary.dll
+C:\Users\Yakov\Desktop\EPAM.Training\MultiFileAssembly\StudentLibrary\bin\Debug\StudentLibrary.pdb
+C:\Users\Yakov\Desktop\EPAM.Training\MultiFileAssembly\StudentLibrary\obj\Debug\StudentLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Yakov\Desktop\EPAM.Training\MultiFileAssembly\StudentLibrary\obj\Debug\StudentLibrary.dll
+C:\Users\Yakov\Desktop\EPAM.Training\MultiFileAssembly\StudentLibrary\obj\Debug\StudentLibrary.pdb

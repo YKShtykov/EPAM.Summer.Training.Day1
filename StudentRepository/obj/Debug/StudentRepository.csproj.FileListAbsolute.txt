@@ -1,0 +1,6 @@
+C:\Users\Yakov\Desktop\EPAM.Training\MultiFileAssembly\StudentRepository\bin\Debug\StudentRepository.dll
+C:\Users\Yakov\Desktop\EPAM.Training\MultiFileAssembly\StudentRepository\bin\Debug\StudentRepository.pdb
+C:\Users\Yakov\Desktop\EPAM.Training\MultiFileAssembly\StudentRepository\bin\Debug\StudentLibrary.dll
+C:\Users\Yakov\Desktop\EPAM.Training\MultiFileAssembly\StudentRepository\obj\Debug\StudentRepository.csprojResolveAssemblyReference.cache
+C:\Users\Yakov\Desktop\EPAM.Training\MultiFileAssembly\StudentRepository\obj\Debug\StudentRepository.dll
+C:\Users\Yakov\Desktop\EPAM.Training\MultiFileAssembly\StudentRepository\obj\Debug\StudentRepository.pdb
